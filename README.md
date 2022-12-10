@@ -1,10 +1,11 @@
 ## Olá! Eu sou Davi, desenvolvedor Front-end / Web-Designer
-  #### Estudando:
-  #### HTML5
-  #### CSS3
-  #### JavaScript
-  #### React
-  #### Git
+  ### Estudando:
+  * HTML5
+  * CSS3
+  * JavaScript
+  * React
+  * Git
+  * Figma UX/UI
 
 <div align="left">
   <a href="https://github.com/DaviPlacco">
