@@ -1,4 +1,4 @@
-## Olá! Eu sou Davi, desenvolvedor Front-end / Web-Designer
+## Olá! Me chamo Davi, Desenvolvedor Front-end e Web-Designer
   ### Estudando:
   * HTML5
   * CSS3
