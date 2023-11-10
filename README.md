@@ -1,4 +1,4 @@
-## Hi! I'm Davi, Front-end Developer &Web-Designer
+## Hi! I'm Davi, Front-end Developer & Web-Designer
   ### Skills:
   * HTML5
   * CSS3
