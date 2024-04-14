@@ -1,9 +1,9 @@
 ## Hi! I'm Davi, Front-end Developer & Web-Designer
   ### Skills:
-  * HTML5
-  * CSS3
+  * React.js
+  * Tailwind
   * JavaScript
-  * React
+  * LESS / SASS
   * Git
   * Figma UX/UI
 
